@@ -1,0 +1,2 @@
+class DspgmsdpvsController < ApplicationController
+end
